@@ -20,7 +20,7 @@
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="はじめてのアプリ" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="OfO-v0-14Z">
                                 <rect key="frame" x="137" y="83" width="245" height="42"/>
                                 <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="30"/>
-                                <color key="textColor" red="0.29348069878136118" green="0.83596075148809523" blue="0.75651839381401675" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="textColor" red="0.27149466350412327" green="0.58509639944659841" blue="0.82831101190476186" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
